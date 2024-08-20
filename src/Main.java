@@ -1,10 +1,11 @@
 import java.util.Scanner;
-
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         // Luna Alejandra Martinez Mendez
+        // 20-08-2024
+        // La Alcancia
         Scanner teclado = new Scanner(System.in);
         int opcion = 0;
         System.out.printf("BIENVENIDO A TU ALCANCIA");
